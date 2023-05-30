@@ -1,4 +1,4 @@
-# Drug_Analysis
+# WHEN BIOLOGY HAS CHEMISTRY
 
 This repository is for the paper ``WHEN BIOLOGY HAS CHEMISTRY: SOLUBILITY AND DRUG SUBCATEGORY PREDICTION USING SMILES STRINGS``, which is accepted at ``International Conference on Learning Representations (ICLR) (2023)``.
 
